@@ -1,0 +1,37 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Python cache directories
+__pycache__/
+.pytest_cache/
+
+# Distribution directory
+dist/
+
+# Setuptools metadata
+*.egg-info/
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+.pydev/
+*.sublime-project
+*.sublime-workspace
+.pycproject
+.pydevproject
+
+# Operating System or editor-generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive or private information
+.env
+*.pem
+*.key
